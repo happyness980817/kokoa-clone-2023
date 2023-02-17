@@ -55,6 +55,8 @@
     text-align: center;
     text-decoration: none;
     color: inherit;
+    /* father 로부터 color 를 상속받는데, 이 경우 login-form.
+     login-form 의 default color 는 black */
     font-size: 13px;
 }
 
