@@ -49,6 +49,11 @@
 
 .open-chat__header span {
     opacity: 0.6;
+    
+}
+
+.open-chat__header span i {
+    margin-left: 5px;
 }
 
 .open-post {
